@@ -3,19 +3,23 @@
 
 Los usuarios deberian poder
 
-Ingresar a la plataforma y ver los diferentes proyectos que he realizado 
-Gestionar algun  proyecto  
-Cierre de sesion
+usuario:admin
+password:1234
+
+- Ingresar a la plataforma y ver los diferentes proyectos que he realizado 
+- Gestionar algun  proyecto  
+- Cierre de sesion
 
 ## Screenshot  
-## 🖼️ HOME
-![Vista principal](imagenes/src1)
-![Vista principal](imagenes/src2)
-## 🖼️ CRUD
-![Vista principal](imagenes/src3)
+
+##  HOME
+![Vista principal](imagenes/img1.jpg)
+![Vista principal](imagenes/img2.jpg)
+##  CRUD
+![Vista principal](imagenes/img3.jpg)
 
 Links
-[Link del proyecto](programming.ct.ws)
+[Link del proyecto](http://programming.ct.ws/)
 
 ## 🚧 Built with
 
